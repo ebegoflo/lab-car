@@ -1,0 +1,153 @@
+iframe{
+	padding:1em;
+	height:35em;
+	width:80%;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+ #backg-img {
+   background-image: url(../assets/images/taxi.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position:bottom;
+   height: 120vh;
+ }
+
+
+ #iPhone{
+   height: 50vh;
+   margin: 0 auto
+ }
+
+ #transparent{
+	background-color: rgba(0,0,0,0.5);
+	height: 50vh;
+  color: #ffffff;
+}
+
+#ruta{
+	font-weight: bolder;
+	margin-left:3.5em;
+}
+
+
+.mg{
+  margin: 0;
+}
+
+.mg-complete{
+  margin: 10px;
+}
+
+.mg-btn{
+  margin-bottom: 15px;
+}
+
+.mg-top{
+  margin-top: 30px;
+}
+
+
+.font {
+  font-size: 18px;
+}
+
+.logo-blanco{
+
+    height: 15px;
+    margin-left: 5px;
+
+}
+
+.navbar-toggle{
+  float: left;
+  margin-left: 15px;
+  margin-right: 0;
+}
+
+.card {
+  background: #F7B617;
+  margin-top: 150px;
+  color: white;
+}
+
+.border-bot{
+  border-bottom: solid 1px #ffffff;
+}
+
+.section-iPhone{
+  background: #F7B617;
+  color: white;
+  height: auto;
+}
+
+.section-conduce{
+	height: 120vh;
+	background-image: url('../assets/images/conduce.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+.section-map{
+  background: #F7B617;
+  color: white;
+  height: auto;
+}
+
+.mg-form {
+  margin-top: 15vh;
+}
+
+.mapa{
+  border: 2px solid #fff;
+  margin-top: 7em;
+  width: auto;
+  height: auto;
+}
+
+
+.yellow{
+	background-color: #F7B617;
+	color: white;
+
+}
+
+
+.border-one{
+  border: solid 1px #ffffff;
+}
+
+.border-two {
+  border-left: none;
+}
+
+.bg-footer{
+  background: #2B2B2B;
+  color: #ffffff;
+}
+
+
+.logos{
+	margin-top: 1em;
+	height: auto;
+	width: auto;
+}
+
+.iconos{
+  margin-bottom:: 0;
+}
+
+.border-top{
+  border-top: solid 1px #ffffff;
+}
+
+
+
+
+@media  {
+
+}
